@@ -5,7 +5,7 @@ Every year, American high school students take SATs, which are standardized test
 
 Analyzing the performance of schools is important for a variety of stakeholders, including policy and education professionals, researchers, government, and even parents considering which school their children should attend.
 
-dataset called schools.csv has been provided.
+Dataset called "schools.csv" has been provided.
 
 I'm going to be answering three key questions about New York City (NYC) public school SAT performance: 
 - Which NYC schools had the best math results.
